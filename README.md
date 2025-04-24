@@ -48,7 +48,7 @@ Chat-App is a full-stack messaging platform where users can communicate in real-
 > 📸 Add these screenshots to the `/screenshots` folder and update the paths if needed.
 
 ### 🖥️ Chat Interface
-![Chat Page](./screenshots/chat-page.png)
+![Chat Page]()
 
 ### 👥 Group Chat View
 ![Group Chat](./screenshots/group-chat.png)
@@ -57,7 +57,7 @@ Chat-App is a full-stack messaging platform where users can communicate in real-
 ![Login Page](./screenshots/login.png)
 
 ### 😎 Emoji Picker in Action
-![Emoji Picker](./screenshots/emoji-picker.png)
+![Emoji Picker](./emojiPicker.png)
 
 ---
 
