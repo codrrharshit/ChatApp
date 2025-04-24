@@ -48,10 +48,10 @@ Chat-App is a full-stack messaging platform where users can communicate in real-
 > 📸 Add these screenshots to the `/screenshots` folder and update the paths if needed.
 
 ### 🖥️ Profile Setup
-![Chat Page]()
+![Chat Page](./Profile.png)
 
 ### 👥 Group Chat View
-![Group Chat](./screenshots/group-chat.png)
+![Group Chat](./GroupChatView.png)
 
 ### 🔐 Login Page
 ![Login Page](./login.png)
